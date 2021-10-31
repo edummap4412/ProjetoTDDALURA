@@ -1,6 +1,6 @@
 from django.test import TestCase, RequestFactory
 
-from ALURA.animais.views import index
+from animais.views import index
 
 
 class AnimaisURLTestCase(TestCase):
